@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam sit amet nisl suscipit adipiscing. Amet aliquam id diam maecenas ultricies mi eget mauris. Facilisi cras fermentum odio eu feugiat. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Nulla facilisi morbi tempus iaculis urna id. Condimentum mattis pellentesque id nibh tortor. Pretium lectus quam id leo in. Scelerisque purus semper eget duis at tellus at urna. Enim nec dui nunc mattis enim. Luctus venenatis lectus magna fringilla urna porttitor rhoncus. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Ac odio tempor orci dapibus ultrices",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam sit amet nisl suscipit adipiscing. Amet aliquam id diam maecenas ultricies mi eget mauris. Facilisi cras fermentum odio eu feugiat. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Nulla facilisi morbi tempus iaculis urna id. Condimentum mattis pellentesque id nibh tortor. Pretium lectus quam id leo in. Scelerisque purus semper eget duis at tellus at urna. Enim nec dui nunc mattis enim. Luctus venenatis lectus magna fringilla urna porttitor rhoncus. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Ac odio tempor orci dapibus ultrices",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam sit amet nisl suscipit adipiscing. Amet aliquam id diam maecenas ultricies mi eget mauris. Facilisi cras fermentum odio eu feugiat. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Nulla facilisi morbi tempus iaculis urna id. Condimentum mattis pellentesque id nibh tortor. Pretium lectus quam id leo in. Scelerisque purus semper eget duis at tellus at urna. Enim nec dui nunc mattis enim. Luctus venenatis lectus magna fringilla urna porttitor rhoncus. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Ac odio tempor orci dapibus ultrices",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "My favorite missions",
+      "body": "djfhjgfdghhtrhtrherthytr",
+      "author": "Solid Snake",
+      "id": 5
+    },
+    {
+      "title": "testing back to home page",
+      "body": "fgsdgrgrgfd",
+      "author": "Sonic",
+      "id": 9
+    }
+  ]
+}
